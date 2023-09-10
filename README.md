@@ -16,7 +16,7 @@ BERT Transformer Model: The utilization of BERT ensures that ClinicalSentix can 
 
 Web Scraping: Automated data scraping tools efficiently collect relevant user-generated content, saving time and ensuring a constant flow of fresh data.
 
-Real-time Analysis: ClinicalSentix continuously analyzes data streams from Twitter and Reddit, allowing for the identification of emerging trends and immediate insights into user sentiment.
+Real-time Analysis: ClinicalSentix continuously analyzes data streams from Twitter, allowing for the identification of emerging trends and immediate insights into user sentiment.
 
 Custom Insights: Beyond sentiment, the project includes custom algorithms to identify patterns such as the most frequently mentioned drugs, common side effects, and changes in sentiment over time.
 
